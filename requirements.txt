@@ -4,8 +4,5 @@ python-docx==0.8.11
 sentence-transformers==2.2.2
 rapidfuzz==2.13.7
 sqlalchemy==1.4.52
-pandas>=1.0,<2.0
+pandas==1.5.3
 python-multipart==0.0.6
-
-
-
